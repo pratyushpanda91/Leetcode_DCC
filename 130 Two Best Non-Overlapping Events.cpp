@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
         int n = events.size();
